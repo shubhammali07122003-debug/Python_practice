@@ -1,0 +1,63 @@
+1.] Unary Operator
+Q1. Accept an integer from the user and:
+Convert it to its negative using a unary operator
+Convert it back to positive using a unary operator
+Print both results
+
+Q2. Given a Boolean variable flag = True,
+use a unary operator to:
+Reverse its value
+Print the original and reversed value
+
+2.] Relational Operator
+Q3. Accept two numbers from the user and:
+Check whether the first number is greater than, equal to, or less than the second
+Print appropriate messages using relational operators
+
+Q4. Accept the age of a person and:
+Check if the person is eligible to vote (age ≥ 18)
+Print Eligible or Not Eligible
+
+3.] Logical Operator
+Q5. Accept three Boolean values from the user and:
+Evaluate the result of:
+value1 and value2
+value2 or value3
+not value1
+Display all results
+
+Q6. Accept username and password from the user and:
+Validate login using logical operators
+Login should be successful only if:
+Username is "admin" and
+Password is "1234"
+
+4.] Membership Operator
+Q7. Given a list of subjects:
+"Python Java C C++ Operating System UI/UX"
+Accept a subject name from the user
+Check whether it exists in the list using a membership operator
+Print appropriate message
+
+Q8. Given a string:
+"Artificial Intelligence"
+Check whether:
+'A' is present in the string
+'z' is not present in the string
+Use membership operators and print results
+
+5.] Bitwise Operator
+Q9. Accept two integers from the user and:
+Perform bitwise AND, OR, XOR, Left Shift, Right Shift, One's Complement
+Print the result of each operation
+
+6.] Identity Operator
+Q10. Create two lists:
+a = "Mountain and I"
+b = a
+c = "Mountain and I"
+Check and print the result of:
+a is b
+a is c
+a is not c
+
